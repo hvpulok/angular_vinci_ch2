@@ -1,3 +1,7 @@
+npm install -g grunt-cli bower yo generator-karma generator-angular
+
+npm install grunt-karma karma karma-phantomjs-launcher karma-jasmine jasmine-core phantomjs-prebuilt --save-dev
+
 # practice
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
